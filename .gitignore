@@ -71,3 +71,6 @@ ENV/
 
 # IntelliJ
 .idea/
+
+# Module that stores sensitive information
+src/secrets.py
